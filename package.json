@@ -1,0 +1,40 @@
+{
+  "name": "tek",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "next build",
+    "dev": "next",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@nivo/line": "^0.58.0",
+    "@zeit/next-css": "^1.0.1",
+    "axios": "^0.18.0",
+    "balloon-css": "^0.5.0",
+    "cors": "^2.8.5",
+    "formik": "^1.5.7",
+    "next": "^8.1.0",
+    "nprogress": "^0.2.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-svg-spinner": "^1.0.4",
+    "react-toastify": "^5.1.1",
+    "tachyons": "^4.11.1",
+    "unstated-next": "^1.1.0",
+    "yup": "^0.27.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-react": "^7.13.0",
+    "eslint-plugin-standard": "^4.0.0",
+    "husky": "^2.3.0",
+    "prettier": "^1.17.1",
+    "pretty-quick": "^1.11.0"
+  }
+}

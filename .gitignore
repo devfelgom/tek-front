@@ -1,0 +1,15 @@
+/.pnp
+/build
+/coverage
+/node_modules
+
+.DS_Store
+.env.*
+.next
+.pnp.js
+.vscode
+
+npm-debug.log*
+package-lock.json
+yarn-debug.log*
+yarn-error.log*
