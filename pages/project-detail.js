@@ -6,7 +6,7 @@ import { toast } from 'react-toastify'
 import Button from 'components/Button'
 import EstimationChart from 'components/EstimationChart'
 import Field from 'components/Field'
-import ProjectHealth from 'components/projectHealth'
+import ProjectHealth from 'components/ProjectHealth'
 
 import HealthType from 'constants/healthType'
 
