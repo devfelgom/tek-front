@@ -6,7 +6,7 @@
   "scripts": {
     "build": "next build",
     "dev": "next",
-    "start": "next start"
+    "start": "next start -p $PORT"
   },
   "dependencies": {
     "@nivo/line": "^0.58.0",
